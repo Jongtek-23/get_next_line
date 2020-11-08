@@ -80,7 +80,6 @@ int		ft_value_of_return(char **line, char **str, int reader)
 /*
 ** read() lit jusqu'a BUFFER_SIZE octets depuis le file descriptor fd dans
 ** le tampon pointe par buff.
-** Elle renvoie le nb d'octets transferes, sinon elle retourne -1.
 */
 
 int		get_next_line(int fd, char **line)
