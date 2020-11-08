@@ -19,7 +19,7 @@
 ** on arrive a la fin du fichier, on aura un retour "0" qui signifie qu il n y
 ** y a plus rien a lire. Par contre,s'il y a une erreur,on aura un retour "-1"
 */
-
+ 
 #include "get_next_line.h"
 
 /*

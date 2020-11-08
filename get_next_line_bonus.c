@@ -9,7 +9,7 @@
 /*   Updated: 2020/10/05 00:55:22 by focampo          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+ 
 /*
 ** Une fonction qui retourne une ligne lue depuis un file descriptor, sans le
 ** retour a la ligne.
